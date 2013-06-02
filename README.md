@@ -1,7 +1,7 @@
-cloudcon-hive
+nyc-hug-hive
 =============
 
-Hive presentation at CloudCon 2013 in San Francisco
+Hive and HCatalog presentation at NYC HUG on June 4th, 2013
 
 Files in the repository
 =======================
