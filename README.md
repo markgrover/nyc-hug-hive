@@ -5,7 +5,7 @@ Hive and HCatalog presentation at NYC HUG on June 4th, 2013
 
 Files in the repository
 =======================
-* [Grover Hive presentation.pdf](https://github.com/markgrover/nyc-hug-hive/blob/master/Grover-Hive%20presentation.pdf): Slides used in the presentation
+* [Grover Hive presentation.pdf](https://github.com/markgrover/nyc-hug-hive/blob/master/Grover-Hive%20Presentation.pdf): Slides used in the presentation
 * [2008.tar.gz](https://github.com/markgrover/nyc-hug-hive/blob/master/2008.tar.gz): Flight delay dataset from 2008.
 * [airports.csv](https://github.com/markgrover/nyc-hug-hive/blob/master/airports.csv): Dataset linking airport codes to their full names. More details in [Introduction](https://github.com/markgrover/bdtc-hive/blob/master/1-Introduction.md) section.
 * [README.md](https://github.com/markgrover/nyc-hug-hive/blob/master/README.md): This file.
