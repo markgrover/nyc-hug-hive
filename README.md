@@ -124,7 +124,7 @@ FIELDS TERMINATED BY ',';
 
 <pre>
 <code>
-LOAD DATA LOCAL INPATH 'nyc-hug-hive/airports.csv' OVERWRITE INTO TABLE flight_data;
+LOAD DATA LOCAL INPATH 'nyc-hug-hive/airports.csv' OVERWRITE INTO TABLE airports;
 </code>
 </pre>
 
